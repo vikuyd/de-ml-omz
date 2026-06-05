@@ -1,0 +1,27 @@
+# Core scientific computing
+numpy>=1.21
+scipy>=1.7
+
+# Plotting
+matplotlib>=3.4
+
+# MCMC
+emcee>=3.1
+corner>=2.2
+
+# Gaussian Process
+george>=0.4
+
+# Neural Network
+torch>=1.12
+
+# Data handling
+pandas>=1.3
+astropy>=5.0
+
+# Progress bars
+tqdm>=4.62
+
+# Symbolic Regression (requires Julia installation)
+# See https://astroautomata.com/PySR/ for Julia setup
+pysr>=0.15
